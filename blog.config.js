@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Z00M Team\'s blog',
+  title: 'Z00M Team',
   author: 'Z00M Team',
   email: 'ypctf@shi1011.cn',
   link: '/',
